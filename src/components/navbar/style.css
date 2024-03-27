@@ -1,0 +1,36 @@
+.navbar {
+    background-color: #ee980e;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  
+  .container-fluid {
+    display: flex;
+    gap: 2rem;
+    padding: 0.5rem;
+  }
+  
+  .navbar-list {
+    display: flex;
+    gap: 3rem;
+    padding-top: 7px;
+    list-style: none;
+  }
+  
+  .navbar-brand{
+    color: #0b1316;
+    font-size: 30px;
+    text-decoration: none;
+    margin-top: 16px;
+  }
+  
+  .nav-item{
+    color: #3019c7;
+  }
+  
+  .nav-link{
+    color: rgb(26, 10, 35);
+    text-decoration: none;
+    font-size: 18px;
+  }

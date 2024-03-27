@@ -1,0 +1,30 @@
+.main-about {
+    margin: 2rem 10rem;
+}
+
+
+.text-center-about {
+    text-align: center;
+    color: rgb(1, 1, 181);
+    text-transform: uppercase;
+}
+
+.black-class {
+    background-color: rgb(173, 164, 164);
+    padding: 3rem;
+    border-radius: 30px;
+}
+
+.gap-about {
+    padding-bottom: 1.5rem;
+    color: rgb(36, 32, 34);
+}
+
+.gap-about h2 {
+    font-size: 15px;
+    padding-bottom: 1.5rem;
+}
+
+.gap-about p {
+    font-size: 18px;
+}
